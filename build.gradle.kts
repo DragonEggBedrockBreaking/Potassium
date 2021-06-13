@@ -40,7 +40,7 @@ minecraft {
 repositories {
 	mavenCentral()
 	jcenter()
-	maven(url = "http://maven.fabricmc.net")
+	maven(url = "https://maven.fabricmc.net")
 	maven ( url = "https://jitpack.io" )
 	maven ( url = "https://repository.ow2.org/nexus" )
 }
